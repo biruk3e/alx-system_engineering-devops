@@ -1,2 +1,1 @@
-#!/bin/bash
-rm *.js
+#!/bin/bashind . -name “*.js” -type f -delete
